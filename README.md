@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amphyby
-- 👀 I’m interested in decentralized apps and all around it.
-- 🌱 I’m currently learning C++, Python, Android dev and Ethereum.
+- 👀 I’m interested in development of scalable applications.
+- 🌱 I'm never done learning new things.
 - 💞️ I’m looking to collaborate on ... do I? :D
 - 📫 How to reach me ... - every headhunter knows how to extract e-mail from git repo :D
 
